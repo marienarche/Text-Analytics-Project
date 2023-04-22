@@ -1,4 +1,4 @@
-# Text-Analytics-Project
+# Text Analytics Project
 
 # Sentiment Analysis for Financial News
 
